@@ -6,5 +6,5 @@ Download this repo, cd into this folder and run ```python3 rusroulette.py```
 *boom* - Kenma   
 lmao - Enma   
 best way to run a friendship 10/10 - honii
-### Backstory
+## Backstory
 back in my day i had to work very hard to kill my operating system so i made this convinent way to do it quickly
