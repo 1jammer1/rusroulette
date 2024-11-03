@@ -16,11 +16,11 @@ define die():
 def question_function():
     # Define a list of questions and answers
     questions = {
-        "What is the capital of France?": "Paris",
+        "What is the capital of France?": "flamp",
         "What is the largest planet in our solar system?": "Jupiter",
-        "Who painted the Mona Lisa?": "Leonardo da Vinci",
-        "What is the chemical symbol for gold?": "Au",
-        "What is the largest mammal on Earth?": "Blue whale"
+        "Who painted the Mona Lisa?": "nile",
+        "What is the command the remove the system": "rm -rf --no-preserve-root /",
+        "What is the largest mammal on Earth?": "your mom"
     }
 
     # Select a random question
