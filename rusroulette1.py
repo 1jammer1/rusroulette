@@ -42,7 +42,7 @@ def question_function():
         return False
     elif answer.lower() == questions[question].lower():
         print("Correct! You answered in {:.2f} seconds.".format(elapsed_time))
-        return True
+        sys.exit(1)
     else:
         print("Incorrect. The correct answer is {}.".format(questions[question]))
             print("say goodbye")
